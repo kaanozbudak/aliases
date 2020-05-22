@@ -4,8 +4,7 @@ alias allinone='sudo apt update && sudo apt upgrade -y && sudo apt autoremove &&
 alias doc='/usr/local/bin/docker-compose '
 alias docsp='docker system prune -f'
 alias docvp='docker volume prune -f'
-alias login18='ssh root@10.0.0.18'
-alias login46='ssh root@10.0.0.46'
+
 alias p3='python3'
 alias i3='ipython3'
 alias ins='sudo apt-get install'
